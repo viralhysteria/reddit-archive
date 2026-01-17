@@ -17,3 +17,5 @@ You can easily replicate this data by copying a list of subreddits from the [ret
 While this can technically be used to fetch newer submission data from reddit, you may notice issues with sorting filter functionality (e.g. you may receive numerous 0-comment results if filtering for >0) and it should primarily be relied on for viewing older, generally inaccessible content.
 
 If you would like an alternative search for Reddit outright, I can suggest [Samac](https://samac.io/) or [Redditle](https://redditle.com/)
+
+You may notice that some of the codebase is a bit hectic as the repo I forked from used an obfuscated JS script and this project was also my attempt at trying to work with obfuscated code directly to improve my ability to navigate confusing flow.
