@@ -1,3 +1,5 @@
+# Due to updates on the pullpush api as well as my lack of interest incorporating fixes from ihsoyCT due to his codebased being obfuscated - this fork only serves as an aesthetic front-end for the time being. I will update it in the future but I cannot guarantee any specific timeframe.
+
 This is a barebones, Bootstrap-driven frontend for searching archived submission and comment data on Reddit using the [*PullPush API*](https://pullpush.io/). The service provides access to data originally retained by PushShift, including content that may have been quarantined or banned in the past by Reddit admins/moderators.
 
 The web app can be self-hosted by cloning this repository and hosting the directory as is, with **index.html** being the entry point.
